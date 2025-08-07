@@ -16,15 +16,12 @@ A full-fledged OTT (Over-The-Top) streaming platform built using **Next.js** and
 - **Frontend**: Next.js, React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **API**: TMDB (The Movie Database)
-- **Authentication**: JWT-based auth (if implemented)
-- **Database**: MongoDB (optional/if included)
 
 ## 📦 Installation
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/d23it162/OTT-platform.git
-   cd OTT-platform
+   git clone https://github.com/Ratanpara-Mahek/OTTPlatform.git
    ```
 
 2. **Install frontend dependencies**
